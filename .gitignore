@@ -1,3 +1,4 @@
 rssagg.exe
 .env
 MyHTTPRequest.http
+Request.http
